@@ -1,0 +1,8 @@
+{
+  "name": "use-countdown",
+  "version": "1.0.0",
+  "description": "Use-countdown react hook for executing callback after timeout",
+  "main": "index.js",
+  "author": "<trigognight.gmail.com>",
+  "license": "MIT"
+}
